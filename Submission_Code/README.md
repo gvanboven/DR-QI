@@ -1,6 +1,6 @@
 # Model code
 The file `model_code_paper.ipynb` presents the code used in the paper:
-*On Text Classification Using a Rich Set of Demographic Features: Evidences for Sustainable Project Planning in Rural Communities*
+*At the Intersection of NLP and Sustainable Development:Exploring the Impact of Demographic-Aware Text Representationsin Modeling Value on a Corpus of Interviews*.
 
 In particular, we include the code use to train the following three models:
 * the baseline model,
