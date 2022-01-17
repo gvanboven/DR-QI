@@ -10,3 +10,5 @@ For both countries, demographic data is presented in two ways:
 * `[country]_samples_vectors.json` : in these files, demographic information is presented as a binary vector, created by concatenating one-hot encoded versions of the demographic features.
 
 Refer to section 3.3 of the paper for a description of the included demographic features.
+
+`Data_Statement.pdf` contains a data statement for DR-QI, and `UPV_Definitions.pdf` provides an overview of the UPV definitions. 
