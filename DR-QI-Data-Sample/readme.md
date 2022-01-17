@@ -1,6 +1,6 @@
 ## DR-QI data sample
 In this folder, you find a ~5% sample of the Demographic-Rich Qualitative UPV-Interviews Dataset (DR-QI) presented in the paper:
-*At the Intersection of NLP and Sustainable Development:Exploring the Impact of Demographic-Aware Text Representationsin Modeling Value on a Corpus of Interviews.*.
+*At the Intersection of NLP and Sustainable Development: Exploring the Impact of Demographic-Aware Text Representations in Modeling Value on a Corpus of Interviews*.
 
 The data from the two countries (Uganda and India) are presented in separate files. Data entries consist of sentences (`text`) with their annotated UPV labels (`labels`), supported with demographic information about the speaker.
 
