@@ -1,0 +1,2476 @@
+[
+    {
+        "text": "I always wake up early so that I can be able to fetch water that I will use during day time.",
+        "labels": [
+            "water security"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 0
+    },
+    {
+        "text": "They can receive many clients and the fan helps in reducing moisture and humidity, thus,  eliminating bad odors.",
+        "labels": [
+            "comfort",
+            "preventative healthcare"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 1
+    },
+    {
+        "text": "Vegetables can be preserved and customers buy when they are fresh.",
+        "labels": [
+            "food security"
+        ],
+        "age": "50-60",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 2
+    },
+    {
+        "text": "It controls everything because minus money nothing can be done.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 3
+    },
+    {
+        "text": "It can easy my work.",
+        "labels": [
+            "unburden"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 4
+    },
+    {
+        "text": "The disadvantage is that the monthly subscriptions are expensive.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 5
+    },
+    {
+        "text": "It is also a large impact because I can use it to construct my home and I get where to stay.",
+        "labels": [
+            "home (place)"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 6
+    },
+    {
+        "text": "The Quran helps my family to stay connected t Allah and also increase our faith.",
+        "labels": [
+            "faith",
+            "family"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "health_care",
+        "household_size": "1 to 4",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 7
+    },
+    {
+        "text": "I even don't know if it can operate on solar or keresone.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 8
+    },
+    {
+        "text": "It also makes the food sweet because food takes its time while boiling.",
+        "labels": [
+            "food security",
+            "appeal (senses)"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 9
+    },
+    {
+        "text": "Solar will give me light to the family, charging my phones and also charging for my friends and neighbors who do not have.",
+        "labels": [
+            "caring for others",
+            "belongingness (people)"
+        ],
+        "age": "18-25",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 10
+    },
+    {
+        "text": "You can as well sell the manure from the goats.",
+        "labels": [
+            "income"
+        ],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "7+",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 11
+    },
+    {
+        "text": "Chicken and eggs can also be sold and becomes the source of money for the household.",
+        "labels": [
+            "income",
+            "home (place)"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 12
+    },
+    {
+        "text": "Once maintained well, it can last for a long period.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 13
+    },
+    {
+        "text": "The system is important because I have people staying in my village home.",
+        "labels": [],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "engineer",
+        "household_size": "10+",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 14
+    },
+    {
+        "text": "Expensive to buy and needs to operate it.",
+        "labels": [
+            "capital cost"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 15
+    },
+    {
+        "text": "Cost for solar have fallen compared the time when they had introduced them thus there are different types and sizes where everyone can afford to purchase one.",
+        "labels": [
+            "availability of goods / products"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "7+",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 16
+    },
+    {
+        "text": "Preserve vegetables and sell them fresh to the customers.",
+        "labels": [
+            "food security"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 17
+    },
+    {
+        "text": "It uses power, and power is not there in the village.",
+        "labels": [
+            "accessibility to services"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 18
+    },
+    {
+        "text": "Renting of my pump has became alternative source of income to my family that I use it in various sectors.",
+        "labels": [
+            "income",
+            "family"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "agriculture",
+        "household_size": "10+",
+        "no_children": "7+",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 19
+    },
+    {
+        "text": "I dont have to spend a lot of money paying for water bills since I have reserved water in the tank.",
+        "labels": [
+            "water security",
+            "comfort",
+            "unburden"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "health_care",
+        "household_size": "1 to 4",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 20
+    },
+    {
+        "text": "I can get manure from the droppings and use it in the garden.",
+        "labels": [],
+        "age": "60+",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "retired",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 21
+    },
+    {
+        "text": "It's power consuming thus brings in additional costs to the business,thus reducing the business income.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 22
+    },
+    {
+        "text": "The water pump is first of all expensive to buy which is not affordable by many of us.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 23
+    },
+    {
+        "text": "The TV is a source of information/news.",
+        "labels": [
+            "information access"
+        ],
+        "age": "60+",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "retired",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 24
+    },
+    {
+        "text": "Source of income to the family.",
+        "labels": [
+            "income",
+            "family"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 25
+    },
+    {
+        "text": "Me always hire my water pump to get cash so that I can cater for basic needs at home.",
+        "labels": [
+            "income",
+            "home (place)"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "engineer",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 26
+    },
+    {
+        "text": "Costs money to watch.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "60+",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "social_work",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 27
+    },
+    {
+        "text": "This item is important because all source of knowledge begins with a book and a pen.",
+        "labels": [
+            "knowledge attainment"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "shopkeeper",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 28
+    },
+    {
+        "text": "You can even spend the whole months without using the fan.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 29
+    },
+    {
+        "text": "Hence, quick reproductive development.",
+        "labels": [
+            "productivity"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 30
+    },
+    {
+        "text": "This helps during the dry season because the water will help the crops not to be affected by the dry season.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "vocational training",
+        "occupation": "other",
+        "household_size": "5 to 7",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 31
+    },
+    {
+        "text": "It also consumes energy and therefore reduces the business/household profits in terms of meeting the bills.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 32
+    },
+    {
+        "text": "Even me personally I can watch during my free it.",
+        "labels": [
+            "entertainment"
+        ],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "7+",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 33
+    },
+    {
+        "text": "Health issues also are taught on it and relaxing while watching.",
+        "labels": [
+            "comfort"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 34
+    },
+    {
+        "text": "It's expensive to pay monthly subscription.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 35
+    },
+    {
+        "text": "The fridge also adds value and beauty in the house in terms of decoration.",
+        "labels": [
+            "home (place)",
+            "aesthetic (items)"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "vocational training",
+        "occupation": "other",
+        "household_size": "5 to 7",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 36
+    },
+    {
+        "text": "Pipes are always busting that is expensive.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "10+",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 37
+    },
+    {
+        "text": "I also like the tv because it provides one of the best entertainment in the world in form of music, sports, drama, movies.",
+        "labels": [
+            "entertainment"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "teacher",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 38
+    },
+    {
+        "text": "For transport purposes.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 39
+    },
+    {
+        "text": "It's helps in rain water haveresting for domestic use.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 40
+    },
+    {
+        "text": "When the chicken grows, I can be able to sell them and buy young ones.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 41
+    },
+    {
+        "text": "The good thing with the fridge you can use it in business for instance in the bar and shop.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "other",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 42
+    },
+    {
+        "text": "Also,it lights TV because now days learning is done at the TV stations and radios so solar is so important.",
+        "labels": [
+            "accessibility to services",
+            "knowledge attainment"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "other",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 43
+    },
+    {
+        "text": "For instance when a child gets sick, immedialely you can sell it and take the child to the hospital for treatment.",
+        "labels": [
+            "family",
+            "medical treatment"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "other",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 44
+    },
+    {
+        "text": "The cow is important because it is a source of wealth in a home, you can sell milk and get money.",
+        "labels": [
+            "income"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "health_care",
+        "household_size": "1 to 4",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 45
+    },
+    {
+        "text": "Its operates on electricity when power goes off some goods can go bad.",
+        "labels": [
+            "safety (from animals, items, nature)"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 46
+    },
+    {
+        "text": "The disadvantage with this pump is that its not affordable to all because it is expensive to purchase.",
+        "labels": [
+            "capital cost"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "social_work",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 47
+    },
+    {
+        "text": "And also, some vegetables like carrots are also said to be medicine for the eyes.",
+        "labels": [
+            "preventative healthcare"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "transport",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 48
+    },
+    {
+        "text": "Its also a source of wealth in a home.",
+        "labels": [
+            "home (place)"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 49
+    },
+    {
+        "text": "Monthy subscription is costly and you have to pay it on time once you don't pay it automatically goes off.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 50
+    },
+    {
+        "text": "This fridge will benefit our family in that we can always have food in our house since we can store food in a freezer.",
+        "labels": [
+            "food security"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 51
+    },
+    {
+        "text": "It is a source of water for farm, home and industrial use.",
+        "labels": [
+            "water security"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 52
+    },
+    {
+        "text": "The cow can produce young ones.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 53
+    },
+    {
+        "text": "I can deal with my businesses through phone because when I want to purchase goods I can easily communicate to suppliers which eases business and saves time that increases time for my work.",
+        "labels": [
+            "contact",
+            "information access"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 54
+    },
+    {
+        "text": "Watch programmes (more information) to improve your farm & by so your also increasing your earnings.",
+        "labels": [
+            "income",
+            "information access"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 55
+    },
+    {
+        "text": "And it is a delicacy especially when visitors come.",
+        "labels": [
+            "food security",
+            "appeal (senses)"
+        ],
+        "age": "60+",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "social_work",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 56
+    },
+    {
+        "text": "The disdavantage with the tv is that it makes children lazy because they want to spend most of the time on tv and end up missing out on doing some work at home.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 57
+    },
+    {
+        "text": "It can be used to add money to the home i.E.",
+        "labels": [
+            "income"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "10+",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 58
+    },
+    {
+        "text": "Its enables us to communicate to people who are way from us.",
+        "labels": [
+            "unburden"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 59
+    },
+    {
+        "text": "It is very expensive in terms of purchase costsignorance of where to buy one from and even know which type is good.It's maintenance costs are high(expensive) and even the technicians are not there in rural areas.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 60
+    },
+    {
+        "text": "And also, it gives us bi-products like its skin, milk and meat.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 61
+    },
+    {
+        "text": "Water is life.",
+        "labels": [
+            "water security"
+        ],
+        "age": "60+",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "social_work",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 62
+    },
+    {
+        "text": "It can also reach a cross boarders and can become a viable source of income.",
+        "labels": [
+            "income"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 63
+    },
+    {
+        "text": "Installing the water pump is hard and needs a technical person.Its also costly ot buy the water pump.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 64
+    },
+    {
+        "text": "The disadvantage of a fan is that when the fan motors are on, the fan makes a lot of noise and also there is energy.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "other",
+        "household_size": "1 to 4",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 65
+    },
+    {
+        "text": "Recreation from long day time work.",
+        "labels": [
+            "comfort"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 66
+    },
+    {
+        "text": "I intend to get two more; one for my goats and the other for irrigation of my fruits.",
+        "labels": [],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "engineer",
+        "household_size": "10+",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 67
+    },
+    {
+        "text": "Also helps the freezer to work non stop even if it's raining it can be connected.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 68
+    },
+    {
+        "text": "The water pump I use uses diesel engine and the diesel  becomes expensive and it's consumption is very high.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 69
+    },
+    {
+        "text": "This is important in our life because they saves our lifes by providing treatment for my family members that reduce death rates.",
+        "labels": [
+            "longevity",
+            "family"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 70
+    },
+    {
+        "text": "This solar helps my children to read hard and have better results in class.",
+        "labels": [
+            "family",
+            "knowledge attainment"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "other",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 71
+    },
+    {
+        "text": "Cows have many uses including source of manure that is more vital to my crops.",
+        "labels": [
+            "recreation"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "agriculture",
+        "household_size": "10+",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 72
+    },
+    {
+        "text": "You see madam, when I have things at a distant place I can use the motorcycle to carry my things to the place where I want them to be.",
+        "labels": [
+            "transportation (of goods)",
+            "freedom to move"
+        ],
+        "age": "18-25",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 73
+    },
+    {
+        "text": "Selling of water also earns my family that helps in many aspects like school fees and medication.",
+        "labels": [
+            "income",
+            "family"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 74
+    },
+    {
+        "text": "It is expensive in terms of buying costs.",
+        "labels": [
+            "capital cost"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 75
+    },
+    {
+        "text": "It's provides fresh air.",
+        "labels": [
+            "clean air"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 76
+    },
+    {
+        "text": "Sometimes people view imitate violent, criminal sexual which is so bad to young and old people as well.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 77
+    },
+    {
+        "text": "The fan also makes the house look beautiful.",
+        "labels": [
+            "appearance"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 78
+    },
+    {
+        "text": "The bible will also help me to seek and know god more because I cannot do anything without god.",
+        "labels": [
+            "faith"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "other",
+        "household_size": "1 to 4",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 79
+    },
+    {
+        "text": "I can be their when am broke thus it can easily transport that acts as source.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 80
+    },
+    {
+        "text": "Me personally I do business and it helps me make orders and deliveries online.",
+        "labels": [
+            "unburden"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 81
+    },
+    {
+        "text": "The TV is addictive in that when you are used to a particular program, you might miss out on doing something productive just to concenntrate on the TV.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "health_care",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 82
+    },
+    {
+        "text": "Helps you pay employees on weekly basis hence they can provide for there homes,hence happiness to them and there homes.",
+        "labels": [
+            "home (place)"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "agriculture",
+        "household_size": "10+",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 83
+    },
+    {
+        "text": "The clock is very important because it tells me time and helps me plan my schedules very well.",
+        "labels": [
+            "time management"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 84
+    },
+    {
+        "text": "A hoe is very important tool because it helps us prepare our gardens from where we can get food for our families.",
+        "labels": [
+            "food security",
+            "family",
+            "recreation"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "teacher",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 85
+    },
+    {
+        "text": "It connects solar and the freezer.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 86
+    },
+    {
+        "text": "Ooh I can see what is taking place in country and I became updated and aware.It's like a class, I can get educated via it in relationship with rearing hens and family matter issues.I can watch and follow government programs such as immunization, wealthy creation among other.",
+        "labels": [
+            "preventative healthcare",
+            "information access"
+        ],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "other",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 87
+    },
+    {
+        "text": "Mr, these can consume alot of power and sometimes limits powerrepairing and purchasing are expensive and therefore increases expenditure on the family",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "teacher",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 88
+    },
+    {
+        "text": "I use money for buying seeds, paying workers.",
+        "labels": [
+            "duty (role fulfilling)"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 89
+    },
+    {
+        "text": "The bed is important because it gives me comfort when am resting and I can meditate on how the day was.",
+        "labels": [
+            "comfort"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "health_care",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 90
+    },
+    {
+        "text": "Secondly here in our village water tap is always off and on and for the case of boreholes water rarely goes offand also once the borehole has been installed its easy to operate and even young children can pump the water from the borehole.",
+        "labels": [
+            "water security"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 91
+    },
+    {
+        "text": "Transport to attend meetings associated with farming.",
+        "labels": [
+            "travel (of people)"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 92
+    },
+    {
+        "text": "Solar provides light especially during the night.",
+        "labels": [
+            "accessibility to services"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "other",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 93
+    },
+    {
+        "text": "Can get quick money to sustain my family and also saving for its maintance.",
+        "labels": [
+            "income",
+            "family"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 94
+    },
+    {
+        "text": "Set up light around the farm.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "agriculture",
+        "household_size": "10+",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 95
+    },
+    {
+        "text": "Brings water near home, if you have pigs you can pump water and clean the pigs house.",
+        "labels": [
+            "water security"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 96
+    },
+    {
+        "text": "We are near equator and we have poor ventilated houses thus high temperatures are around this reduces temperatures.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 97
+    },
+    {
+        "text": "Here people always have a say that 'this person didn't see a blackboard' especially when one has done something bad in the community.",
+        "labels": [
+            "belongingness (people)"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "other",
+        "household_size": "1 to 4",
+        "no_children": "none",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 98
+    },
+    {
+        "text": "The fan is just a luxury in the house so I don't see the value for money.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 99
+    },
+    {
+        "text": "You can get eggs from the chicken.",
+        "labels": [
+            "food security"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 100
+    },
+    {
+        "text": "Having a water pump helps you to cultivate throughout the seasons, because there is abundance/reliable water source.",
+        "labels": [
+            "water security"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 101
+    },
+    {
+        "text": "It also provides cold drink and food for home use.",
+        "labels": [
+            "food security"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 102
+    },
+    {
+        "text": "The book is very important because if you are not educated, people will not respect you in the society.",
+        "labels": [
+            "dignity",
+            "knowledge attainment"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 103
+    },
+    {
+        "text": "Strict laws can be implemented like before starting watching you have to first complete doing home works such as fetching water first.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 104
+    },
+    {
+        "text": "I go to hospital for medical reasons using motorcycle which reduces death rates in my family.Motorcycle also transport my goods from market thus runs business easily which increases my income.",
+        "labels": [
+            "transportation (of goods)",
+            "medical treatment",
+            "accessibility to services",
+            "income",
+            "family"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 105
+    },
+    {
+        "text": "It crows at given times and reminds you of what to do.",
+        "labels": [
+            "time management"
+        ],
+        "age": "60+",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "social_work",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 106
+    },
+    {
+        "text": "The pump helps in sunny season to do watering to crops so that the crops do not get dry.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 107
+    },
+    {
+        "text": "It also helps to fight poverty and also a source of food to my family.",
+        "labels": [
+            "food security",
+            "family"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 108
+    },
+    {
+        "text": "Maintenance costs of a fridge are also high especially when its faulty.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "shopkeeper",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 109
+    },
+    {
+        "text": "It's flexible, it's mobile, it reaches where cars can't reach.",
+        "labels": [
+            "portability"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 110
+    },
+    {
+        "text": "Maintinance of the fridge is not easy because it cannot operate without power.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "health_care",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 111
+    },
+    {
+        "text": "Children might misuse the fan and end up getting accident especially with young children .",
+        "labels": [
+            "safety (from animals, items, nature)"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 112
+    },
+    {
+        "text": "It can deep freeze them and bust bottles which causes loss.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 113
+    },
+    {
+        "text": "Helps to extend water near homes thus saves mothers and children to walk for a longer distance to look for water.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 114
+    },
+    {
+        "text": "I have chosen a fridge because with a fridge, I can always buy my food stuff and store them meaning I don't have to keep on going to the market.",
+        "labels": [
+            "food security",
+            "comfort"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "social_work",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 115
+    },
+    {
+        "text": "Can be a source of income for instance like now in this sunny season people always buy cold drinks.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 116
+    },
+    {
+        "text": "The watering can is important when am doing my farming.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "shopkeeper",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 117
+    },
+    {
+        "text": "This fridge will help me to store some of the surplus food items from the garden to avoid them from getting spoiled.",
+        "labels": [
+            "food security"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 118
+    },
+    {
+        "text": "Money can be also used in business, such as investing in selling drinks that gives back more income which I use for my family.",
+        "labels": [
+            "income",
+            "usability",
+            "family"
+        ],
+        "age": "50-60",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "other",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 119
+    },
+    {
+        "text": "I have to use the money to fuel my motorcycle.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 120
+    },
+    {
+        "text": "Sometimes the fan consumes space for nothing because it takes time without being used.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "transport",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 121
+    },
+    {
+        "text": "Thetv is important in a way that it keeps us up to date with the local news and also we get all the entertainment we need through the tv.",
+        "labels": [
+            "entertainment",
+            "information access"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "other",
+        "household_size": "1 to 4",
+        "no_children": "none",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 122
+    },
+    {
+        "text": "It will provide us with fresh air which we would not have been able to get.",
+        "labels": [
+            "clean air"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "transport",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 123
+    },
+    {
+        "text": "Playing is very important for their health because it keeps their body fit.",
+        "labels": [
+            "preventative healthcare"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "shopkeeper",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 124
+    },
+    {
+        "text": "Can be used for building a home(house), shed for animals, goats, poultry and also raise a pit latrine.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 125
+    },
+    {
+        "text": "It gives information to my family members.",
+        "labels": [
+            "information access"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 126
+    },
+    {
+        "text": "Repairing it is expensive.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 127
+    },
+    {
+        "text": "Kerosene is expensive to buy daily.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 128
+    },
+    {
+        "text": "Also, we can watch news and know what is going on around the world.",
+        "labels": [
+            "information access"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "vocational training",
+        "occupation": "engineer",
+        "household_size": "5 to 7",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 129
+    },
+    {
+        "text": "Battery saves excess energy.",
+        "labels": [],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 130
+    },
+    {
+        "text": "You can hire it out to people and generate income for my home use.",
+        "labels": [
+            "income"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 131
+    },
+    {
+        "text": "For me I always pay 3,000 shs (~$1) per day.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 132
+    },
+    {
+        "text": "Strains eyes if watched for a long time.",
+        "labels": [],
+        "age": "60+",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "uni",
+        "occupation": "social_work",
+        "household_size": "8 to 10",
+        "no_children": "3-4",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 133
+    },
+    {
+        "text": "Also, in case of breakdown, the fridge is expensive to maintain in terms of repairs.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "transport",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 134
+    },
+    {
+        "text": "Another thing, products which get spoiled easily may not go bad easily because the fridge will keep them safe.",
+        "labels": [
+            "food security"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "yes",
+        "education": "primary",
+        "occupation": "self_employed",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 135
+    },
+    {
+        "text": "Source of food.",
+        "labels": [
+            "food security"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 136
+    },
+    {
+        "text": "Enables us to know what is taking place in places where we are not.",
+        "labels": [
+            "information access"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "other",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 137
+    },
+    {
+        "text": "When I get sick it takes me to the hospital to get medication.",
+        "labels": [
+            "medical treatment"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "8 to 10",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 138
+    },
+    {
+        "text": "I can sell water in the polythene bags at 100 shs  and in a day I can sell a 20 litre jerrican.",
+        "labels": [
+            "income"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "other",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 139
+    },
+    {
+        "text": "The TV is a source of news and information.",
+        "labels": [
+            "information access"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "transport",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 140
+    },
+    {
+        "text": "Source of income through using it as a boda boda (motorcycle taxi).It can be used to take the sick person to the hospital for treatment.",
+        "labels": [
+            "medical treatment"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "below_poverty_rate",
+        "sample_id": 141
+    },
+    {
+        "text": "You can use the motorcycle on road for business purposes and earn some money.",
+        "labels": [
+            "income"
+        ],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 142
+    },
+    {
+        "text": "Also when on bed, me and my husband can settle our issues.",
+        "labels": [
+            "comfort",
+            "family"
+        ],
+        "age": "25-35",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "1-2",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 143
+    },
+    {
+        "text": "Source of milk, meat, ghee, provide hides and  skins.",
+        "labels": [
+            "food security"
+        ],
+        "age": "35-50",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "primary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 144
+    },
+    {
+        "text": "Eases communication to my family members.",
+        "labels": [
+            "contact",
+            "family"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "single",
+        "disability": "no",
+        "education": "vocational training",
+        "occupation": "agriculture",
+        "household_size": "5 to 7",
+        "no_children": "5-7",
+        "income_relative": "high",
+        "poverty_rate": "above_poverty_rate",
+        "sample_id": 145
+    },
+    {
+        "text": "Provides manure for home gardening.",
+        "labels": [],
+        "age": "25-35",
+        "gender": "female",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "business",
+        "household_size": "1 to 4",
+        "no_children": "3-4",
+        "income_relative": "low",
+        "poverty_rate": "lowest_poverty",
+        "sample_id": 146
+    },
+    {
+        "text": "Source of income through selling of maize, source of food [ food security] once you have food that means my children will not sleep hungry.",
+        "labels": [
+            "income",
+            "food security",
+            "family"
+        ],
+        "age": "35-50",
+        "gender": "male",
+        "marital_status": "married",
+        "disability": "no",
+        "education": "secondary",
+        "occupation": "agriculture",
+        "household_size": "1 to 4",
+        "no_children": "5-7",
+        "income_relative": "middle",
+        "poverty_rate": "low_poverty",
+        "sample_id": 147
+    }
+]

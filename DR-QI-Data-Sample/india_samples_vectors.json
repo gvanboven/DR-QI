@@ -1,0 +1,859 @@
+[
+    {
+        "text": "We can nurture our kids properly with money.",
+        "labels": [
+            "family"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 0
+    },
+    {
+        "text": "Chemicals are used in whatever vegetables are available from the market.",
+        "labels": [
+            "availability of goods / products"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 1
+    },
+    {
+        "text": "We get information about our country and the whole world that what the government is doing for our society.",
+        "labels": [
+            "information access"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 2
+    },
+    {
+        "text": "Everyone lives by farming.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 0 0 0 1 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 3
+    },
+    {
+        "text": "Water can be reached to fields easily.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 4
+    },
+    {
+        "text": "We can get fresh air.",
+        "labels": [],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 5
+    },
+    {
+        "text": "We have to stay fit and healthy to take care of our family and work.",
+        "labels": [
+            "family"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 6
+    },
+    {
+        "text": "It is electric item and hence consumes more electricity.",
+        "labels": [
+            "operational expenditure",
+            "availability of goods / products"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 7
+    },
+    {
+        "text": "We can bring water from under the ground.",
+        "labels": [
+            "water security",
+            "transportation (of goods)"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 8
+    },
+    {
+        "text": "Can generate more money.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 9
+    },
+    {
+        "text": "You get all the information and news of the near ones through this.",
+        "labels": [
+            "information access"
+        ],
+        "demographics": "[0 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 10
+    },
+    {
+        "text": "Cow's milk and ghee are good for health.If we are healthy then we will be able to work.We will work only then we can run our family life.",
+        "labels": [
+            "preventative healthcare",
+            "family"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 11
+    },
+    {
+        "text": "All the work can be done when the health is right.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 12
+    },
+    {
+        "text": "Gas comes out of the Refrigerator which can cause harm to the body.",
+        "labels": [
+            "safety (from animals, items, nature)"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 13
+    },
+    {
+        "text": "Information reduces stress.",
+        "labels": [
+            "stress"
+        ],
+        "demographics": "[0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 14
+    },
+    {
+        "text": "Spending on spoilage is high.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 15
+    },
+    {
+        "text": "We get relief in summer.",
+        "labels": [
+            "comfort"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1\n 0 0 1 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 16
+    },
+    {
+        "text": "It is important for fetching water for drinking and irrigating field.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 17
+    },
+    {
+        "text": "Consumes more electricity",
+        "labels": [
+            "operational expenditure"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 18
+    },
+    {
+        "text": "Health is essential for doing any work.",
+        "labels": [],
+        "demographics": "[1 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 19
+    },
+    {
+        "text": "It can fetch the water for longer distance.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 20
+    },
+    {
+        "text": "We get the money from agriculture.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 21
+    },
+    {
+        "text": "Nutrients of vegetables are destroyed.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 22
+    },
+    {
+        "text": "Timing is important to see in our lives.",
+        "labels": [
+            "time management"
+        ],
+        "demographics": "[0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 23
+    },
+    {
+        "text": "Farming is done by water pump.Water is easily available.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 24
+    },
+    {
+        "text": "It is essential for all things information and entertainment.",
+        "labels": [
+            "entertainment",
+            "information access"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 25
+    },
+    {
+        "text": "Exercise keeps the body perfect.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 26
+    },
+    {
+        "text": "This can have a bad effect on children as they tend to catch bad things very fast.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 27
+    },
+    {
+        "text": "We can get cool water.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 28
+    },
+    {
+        "text": "It is very useful for farming.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 29
+    },
+    {
+        "text": "Light is necessary for all kind of work.",
+        "labels": [],
+        "demographics": "[1 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 30
+    },
+    {
+        "text": "Higher cost on electricity bill.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 31
+    },
+    {
+        "text": "More and more money will come from the crop.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 32
+    },
+    {
+        "text": "All types of information are available.",
+        "labels": [
+            "information access"
+        ],
+        "demographics": "[0 0 0 0 1 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 33
+    },
+    {
+        "text": "We can watch movies and serials on TV.We can watch songs and get news also.",
+        "labels": [
+            "entertainment",
+            "information access"
+        ],
+        "demographics": "[0 1 0 0 0 1 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 34
+    },
+    {
+        "text": "Fan is necessary for air and avoiding heat.",
+        "labels": [
+            "clean air",
+            "comfort"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 35
+    },
+    {
+        "text": "Mental illnesses are also on the rise.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 36
+    },
+    {
+        "text": "Everything moves according to time.",
+        "labels": [
+            "time management"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 37
+    },
+    {
+        "text": "We are safe from society.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 38
+    },
+    {
+        "text": "By saving, you can increase the convenience in life.",
+        "labels": [
+            "comfort"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 39
+    },
+    {
+        "text": "It can send water to a height at home.",
+        "labels": [
+            "water security",
+            "transportation (of goods)",
+            "home (place)"
+        ],
+        "demographics": "[1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 40
+    },
+    {
+        "text": "It's good if you want to work.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 41
+    },
+    {
+        "text": "This is important for lighting.",
+        "labels": [],
+        "demographics": "[1 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 42
+    },
+    {
+        "text": "It provides air in summer and dries up sweat.",
+        "labels": [
+            "clean air",
+            "comfort",
+            "unburden"
+        ],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 43
+    },
+    {
+        "text": "You can do something for someone only by staying alive.",
+        "labels": [],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 44
+    },
+    {
+        "text": "Refrigerated cold water makes throat sour.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 45
+    },
+    {
+        "text": "We get cold water and it protects the food from being getting rotten.",
+        "labels": [
+            "food security"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 46
+    },
+    {
+        "text": "Water is life.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 47
+    },
+    {
+        "text": "Children and adults are entertained.",
+        "labels": [
+            "entertainment"
+        ],
+        "demographics": "[0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 48
+    },
+    {
+        "text": "Provide news updates.",
+        "labels": [
+            "information access"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 49
+    },
+    {
+        "text": "Keep water and other things cool and save them from rotting.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[1 0 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 50
+    },
+    {
+        "text": "If you learn good things it will always be good.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 51
+    },
+    {
+        "text": "We get the information about entertainment, education, history, sports world.",
+        "labels": [
+            "entertainment",
+            "information access"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 52
+    },
+    {
+        "text": "We earn income only from agriculture.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 53
+    },
+    {
+        "text": "We benefit from doing all the work at the right time every day.",
+        "labels": [],
+        "demographics": "[1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 54
+    },
+    {
+        "text": "This saves both time and money.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0\n 0 0 1 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 55
+    },
+    {
+        "text": "By this children learn bad habits.",
+        "labels": [
+            "family"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 56
+    },
+    {
+        "text": "We get cold water and also not waste my food.",
+        "labels": [
+            "food security"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 57
+    },
+    {
+        "text": "Sugar is available from sugarcane.Sugar is our daily need.Everyone loves sweet food.",
+        "labels": [
+            "food security",
+            "freedom of choice"
+        ],
+        "demographics": "[0 0 0 1 0 1 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 58
+    },
+    {
+        "text": "We are entertained by TV.",
+        "labels": [
+            "entertainment"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 59
+    },
+    {
+        "text": "Food and drink are not spoiled.",
+        "labels": [
+            "food security"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 60
+    },
+    {
+        "text": "If we are educated then we can give our best to the society otherwise we are living like an animal.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 61
+    },
+    {
+        "text": "This is useful for me.",
+        "labels": [],
+        "demographics": "[1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 62
+    },
+    {
+        "text": "We are having animals with us.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 63
+    },
+    {
+        "text": "Vegetables and fruits are kept safe in the Refrigerator.",
+        "labels": [
+            "food security"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 64
+    },
+    {
+        "text": "Everything can be bought with money.",
+        "labels": [],
+        "demographics": "[1 0 0 0 0 0 1 0 0 1 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 0 1 0 0 1 0 1 0 0 0]",
+        "sample_id": 65
+    },
+    {
+        "text": "Good source of entertainment and gaining knowledge.We get world information and news.",
+        "labels": [
+            "entertainment",
+            "information access"
+        ],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 66
+    },
+    {
+        "text": "If you get employment then you can run your family.",
+        "labels": [
+            "income",
+            "duty (role fulfilling)",
+            "family"
+        ],
+        "demographics": "[0 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 67
+    },
+    {
+        "text": "There is a possibility of electric shock.",
+        "labels": [
+            "safety (from animals, items, nature)"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 68
+    },
+    {
+        "text": "We store water with the help of water harvesting.Water can be used to irrigate the land.We cannot do anything without water.We cannot imagine our life without water.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 69
+    },
+    {
+        "text": "Gets cold water and ice which gives relief from hot weather.",
+        "labels": [
+            "unburden"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 70
+    },
+    {
+        "text": "Pumped water is necessary for drinking water and farming.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 71
+    },
+    {
+        "text": "In summer we get cool air.With the help of a fan, our body gets rest.",
+        "labels": [
+            "clean air",
+            "comfort"
+        ],
+        "demographics": "[0 1 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 72
+    },
+    {
+        "text": "The food items kept in Refrigerator lasts for long and it doesn't get spoiled.",
+        "labels": [
+            "food security"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 73
+    },
+    {
+        "text": "Money controls the house.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 74
+    },
+    {
+        "text": "You can listen to songs which makes you relaxed.",
+        "labels": [
+            "comfort"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1\n 0 0 1 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 75
+    },
+    {
+        "text": "We get drinking water and use it for farming.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 76
+    },
+    {
+        "text": "This method is fine if you want to save water.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 77
+    },
+    {
+        "text": "We have lost our unconditional source of energy like petrol and diesel, but the alternative option solar energy will never run out.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 78
+    },
+    {
+        "text": "Saved time can be utilized for doing other works which will earn you money.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1\n 0 0 1 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 79
+    },
+    {
+        "text": "We can get news.",
+        "labels": [
+            "information access"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 80
+    },
+    {
+        "text": "You can do more with savings.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 81
+    },
+    {
+        "text": "Cow rearing is a must.",
+        "labels": [],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 82
+    },
+    {
+        "text": "We get relief from heat.",
+        "labels": [
+            "comfort"
+        ],
+        "demographics": "[0 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 83
+    },
+    {
+        "text": "This makes work quicker.",
+        "labels": [
+            "time benefit"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 84
+    },
+    {
+        "text": "It helps in saving money and time.",
+        "labels": [
+            "time benefit"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 85
+    },
+    {
+        "text": "Time is important to us as it helps in profit in work.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 86
+    },
+    {
+        "text": "There is a fear of finger cutting.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 1 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 87
+    },
+    {
+        "text": "Cold water is good in summer.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 88
+    },
+    {
+        "text": "It protects us from the tolerable hot air of summer and dries up the sweat.",
+        "labels": [
+            "comfort"
+        ],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 89
+    },
+    {
+        "text": "Home runs with money.",
+        "labels": [
+            "income",
+            "home (place)"
+        ],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 90
+    },
+    {
+        "text": "The mind will feel good.",
+        "labels": [],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 91
+    },
+    {
+        "text": "Life will be better with more money.",
+        "labels": [
+            "income",
+            "comfort"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 92
+    },
+    {
+        "text": "We can take it anywhere.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 93
+    },
+    {
+        "text": "Refrigerator provides cool water in summer seasons.Vegetables do not spoil.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 94
+    },
+    {
+        "text": "There can be loss of life when a short circuit occurs.",
+        "labels": [
+            "safety (from animals, items, nature)"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 95
+    },
+    {
+        "text": "We store water from help of water harvesting.The land can be irrigated with water.Without water we can not do any thing.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0\n 0 0 1 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 96
+    },
+    {
+        "text": "Success makes money.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 97
+    },
+    {
+        "text": "We get drinking water and also for irrigation.I cannot do agriculture without water.Agriculture has increased employment.",
+        "labels": [
+            "water security"
+        ],
+        "demographics": "[0 0 0 1 0 1 0 1 0 0 1 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 98
+    },
+    {
+        "text": "If we are healthy then we can help each other.",
+        "labels": [
+            "support network"
+        ],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 99
+    },
+    {
+        "text": "Information benefits.",
+        "labels": [
+            "information access"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 100
+    },
+    {
+        "text": "Cycling is exercise.Exercise keeps the body healthy.Health will be wealth.",
+        "labels": [],
+        "demographics": "[0 0 0 1 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 101
+    },
+    {
+        "text": "We watch movies and news with our family.",
+        "labels": [
+            "entertainment",
+            "information access",
+            "family"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 102
+    },
+    {
+        "text": "News and knowledge of every country is found.",
+        "labels": [
+            "information access"
+        ],
+        "demographics": "[1 0 0 0 0 0 1 0 0 1 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0\n 0 1 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 103
+    },
+    {
+        "text": "Everybody wants to be happy.",
+        "labels": [],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0\n 0 0 1 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 104
+    },
+    {
+        "text": "Necessary to cure the disease.",
+        "labels": [
+            "accessibility to services"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 105
+    },
+    {
+        "text": "Mobile is the need of our life.With mobile, we get complete information about our work.We can easily handle any thing in my life the help of mobile.",
+        "labels": [
+            "unburden",
+            "availability of goods / products",
+            "information access"
+        ],
+        "demographics": "[1 0 0 0 0 1 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 0 1 0 0]",
+        "sample_id": 106
+    },
+    {
+        "text": "If we work, we make money.",
+        "labels": [
+            "income"
+        ],
+        "demographics": "[0 0 1 0 0 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 107
+    },
+    {
+        "text": "We need a clock to wake up in the morning.If you wake up early in the morning, you will get more work done.",
+        "labels": [],
+        "demographics": "[0 0 0 0 1 1 0 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0\n 1 0 0 0 0 0 1 0 1 0 0 0]",
+        "sample_id": 108
+    },
+    {
+        "text": "If entertainment is right then mind, body will be right.",
+        "labels": [
+            "mental health",
+            "entertainment"
+        ],
+        "demographics": "[0 0 0 1 0 1 0 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1\n 0 1 0 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 109
+    },
+    {
+        "text": "Electricity bill is high.",
+        "labels": [
+            "operational expenditure"
+        ],
+        "demographics": "[0 0 1 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0\n 0 0 0 0 1 0 1 0 1 0 0 0]",
+        "sample_id": 110
+    },
+    {
+        "text": "This makes the production work with more enthusiasm.",
+        "labels": [],
+        "demographics": "[0 1 0 0 0 0 1 1 0 0 1 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0\n 0 0 1 0 0 1 0 0 1 0 0 0]",
+        "sample_id": 111
+    }
+]
